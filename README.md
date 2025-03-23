@@ -1,32 +1,30 @@
-# FCAI-Cairo-University-Ciphers-Deciphers
-<div align='center'>
+# 🔐 Cipher and Decipher Application
+## 📖 Overview
+A Cipher and Decipher Application using 10 different methods to encrypt and decrypt messages using C++.
+
+## 🔑 Featured Ciphers and Deciphers
 
 
-This repository was created by Amr Khaled, Youssef Amgad, and Mohamed Ahmed to apply Ciphers Examples.
-</div>
-
-## Ciphers Examples
-
-
-- A. Atbash Cipher
-- B. Baconian Cipher
-- C. Polybius Square Cipher
-- D. Simple Substitution Cipher
-- E. Rail Fence Cipher
-- F. Route Cipher
-- G. Vignere Cipher
-- H. XOR Cipher
-- I. Affine Cipher
-- J. Morse Cipher
+- A. Atbash 
+- B. Baconian 
+- C. Polybius Square 
+- D. Simple Substitution 
+- E. Rail Fence 
+- F. Route 
+- G. Vignere 
+- H. XOR 
+- I. Affine 
+- J. Morse 
  
 
 
-## Program Features
+## ✨ Program Features
 - The program starts with a welcome message, then asks to choose between different types of ciphers, then chooses to cipher or dcipher, then enters the phrase that he wants to perform.
-- Each encryption type has its own characteristics, so each encryption type verifies the validity of the statement as it should be
-## Contributing
+- Each encryption/decryption type has its own characteristics, so each encryption/decryption type verifies the validity of the statement as it should be.
+- After encryption/decryption the message is shown to the user.
 
-The engineers who collaborated together to create the program:
+## ✍️ Authors
+
 
 - [Youssef Amgad Elkhatib](https://github.com/YoussefElkhatib)
 - [Mohamed Ahmed](https://github.com/mohamedahmed2005)
